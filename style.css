@@ -1,0 +1,57 @@
+.prag{
+    background-color:rgb(175, 80, 80);
+    color: white;
+    font-size:20px;
+    padding:20px;
+    border:2px solid rgb(0, 0, 0);
+}
+.name{
+    font-size:15px;
+    color:black;
+}
+.head{
+    color:red;
+    background:black;
+    font-family:arial black;
+    border-radius:10px;
+    border:3px solid red;
+    padding:30px;
+}
+.head2{
+    background: red;
+    color:black;
+    padding:20px;
+    border:3px solid black;
+    margin:10px;
+}
+.head3{
+    background-color:blue;
+    color : white;
+    margin:red;
+    border:2px solid green;
+    padding:20px;
+    font-size:16px;
+}
+.button{
+    padding: 15px;
+    margin: 10px;
+    border-radius: 8px;
+    color: white;
+    background-color: green;
+    font-size: 20px;
+}
+.image1{
+    width:500px;
+    max-width:100%;
+}
+.image2{
+    width:500px;
+    max-width:100%;
+}
+.form{
+    background-color: rgb(97, 93, 93);
+    color:white;
+    padding:30px;
+    border:3px black;
+    width:400px;    
+}
